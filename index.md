@@ -47,4 +47,5 @@ Refer to [Read ME](README.md) for any more information.
   Hopefully @github/support can help me sometimes if I get stuck in something. :)  :+1:
 <!-- here is the footnote part-->
 [^1]: Its just a prank bro
+Best
 
